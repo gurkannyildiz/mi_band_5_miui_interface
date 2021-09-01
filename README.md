@@ -5,4 +5,5 @@
 4. Use 3rd party app for update Mi Band
 5. Done
 
-#### Use it at your own risk... I'm not responsible for bricked devices. Please attention ####
+#### Use it at your own risk... I'm not responsible for bricked devices. Please attention
+#### This interface is designed for only Mi Band 5 which has v103 version. It will not work on older versions.
