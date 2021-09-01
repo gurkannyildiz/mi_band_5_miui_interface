@@ -1,2 +1,8 @@
-# mi_band_5_miui_interface
-This is a reordered icon pack for mi band 5 
+# How to change Mi Band 5 interface
+1. Download zip file
+2. Convert .zip to .res 
+3. Transfer .res file to Android/ IOS devices
+4. Use 3rd party app for update Mi Band
+5. Done
+
+#### Use it at your own risk... I'm not responsible for bricked devices. Please attention ####
